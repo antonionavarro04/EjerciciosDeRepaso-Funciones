@@ -1,5 +1,6 @@
 package ejercicio1;
 
+// ? Importamos la Clase Scanner y Locale
 import java.util.Scanner;
 import java.util.Locale;
 
